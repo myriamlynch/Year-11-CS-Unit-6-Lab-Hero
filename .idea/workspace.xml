@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49a8bd32-e882-4a23-94f9-c412913573d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Year-11-CS-Unit-6-Lab-Hero.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Year-11-CS-Unit-6-Lab-Hero.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HeroTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HeroTester.java" afterDir="false" />
-    </list>
+    <list default="true" id="49a8bd32-e882-4a23-94f9-c412913573d5" name="Changes" comment="final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +48,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674173736634</updated>
     </task>
+    <task id="LOCAL-00001" summary="final">
+      <created>1678075183767</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678075183767</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>

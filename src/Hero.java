@@ -18,10 +18,6 @@ public class Hero {
         return name;
     }
 
-//    public void attacked()
-//    {
-//        hitPoints--;
-//    }
 
     public int getHitPoints()
     {
@@ -33,10 +29,8 @@ public class Hero {
         return "Hero{name='" + name + "', hitPoints=" + hitPoints + "}";
     }
 
-    ///still working
     public void attack(Hero opponnent)
     {
-        //double num = Math.random();
         double num = 0 + (random.nextDouble() * (0.99-0.00));
         if(num < 0.5)
         {
@@ -57,7 +51,7 @@ public class Hero {
 
     private void fightUntilTheDeathHelper(Hero opponent)
     {
-        while(this.hitPoints > 0 || opponent.getHitPoints() > 0)
+        while(this.hitPoints > 0 && opponent.getHitPoints() > 0)
             attack(opponent);
     }
 
